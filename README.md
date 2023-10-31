@@ -7,19 +7,40 @@
 </a>
 </div>
 
-<h1 align="center">Hi 🤘🏼! I'm Dave</h1>
+</br>
+
+<h1 align="center">Hi 🤘🏼! I'm <a href="https://github.com/davesagraf">Dave</a></h1>
 <h3 align="center">A passionate full stack developer & testing automation engineer</h3>
 
-[![followers](https://img.shields.io/github/followers/davesagraf?style=social)](https://github.com/davesagraf?tab=followers)
-[![stars](https://img.shields.io/github/stars/davesagraf?style=social)](https://github.com/davesagraf?tab=stars)
+</br>
+
+<div align="center">
+  
+  <a align="center"> [![followers](https://img.shields.io/github/followers/davesagraf?style=social)](https://github.com/davesagraf?tab=followers) </a>
+  <a align="center"> [![stars](https://img.shields.io/github/stars/davesagraf?style=social)](https://github.com/davesagraf?tab=stars) </a>
+  
+</div>
+
+</br>
 
 <h4 align="center">Visitor's count 👀</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{davesagraf}/count.svg" alt="davesagraf :: Visitor's Count" /></p>
 
-- 👨🏻‍💻 I'm currently working at [Start X](https://github.com/antiphish-team)
-- 🔭 I'm currently learning [**NextJS**](https://nextjs.org/) with [**Bun**](https://bun.sh/) & [**Million**](https://million.dev/)
-- 📫 How to reach me **mrdavidsaguev@proton.me**
+</br>
 
+<div align="center">
+  
+👨🏻‍💻 I'm currently working at [**Start X**](https://github.com/antiphish-team)
+  
+🔭 I'm currently learning [**NextJS**](https://nextjs.org/) with [**Bun**](https://bun.sh/) & [**Million**](https://million.dev/)
+  
+📫 How to reach me **mrdavidsaguev@proton.me**
+  
+</div>
+
+</br>
+
+<div align="center">
 ### 🛠 Tech Stack
 
 [![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
@@ -93,3 +114,4 @@
 ### 💬 Contact Me
 
 [![Proton](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:mrdavidsaguev@proton.me)
+</div>
