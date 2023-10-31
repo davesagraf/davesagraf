@@ -1,5 +1,3 @@
-![](https://raw.githubusercontent.com/davesagraf/github-stats/master/generated/overview.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/davesagraf/github-stats/master/generated/overview.svg#gh-light-mode-only)
 
-![](https://raw.githubusercontent.com/davesagraf/github-stats/master/generated/languages.svg#gh-dark-mode-only)
-![](https://raw.githubusercontent.com/davesagraf/github-stats/master/generated/languages.svg#gh-light-mode-only)
+![](https://github-readme-stats.vercel.app/api?username=davesagraf&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&theme=dark)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=davesagraf&theme=dark)
