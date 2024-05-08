@@ -75,7 +75,10 @@
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/grafana/)
 [![InfluxDB](https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=InfluxDB&logoColor=white)](https://www.influxdata.com/)
 
-[![Bash](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
+[![Bash](https://img.shields.io/badge/bash-%23121011.svg?style=for-the-badge&logo=gnubash&logoColor=white)](https://www.gnu.org/software/bash/manual/bash.html)
+[![warp](https://img.shields.io/badge/warp-%23131313.svg?style=for-the-badge&logo=warp&logoColor=%2301A4FF)](https://www.warp.dev/)
+[![Nushell](https://img.shields.io/badge/nushell-%23131313.svg?style=for-the-badge&logo=nushell&logoColor=%234E9A06)](https://www.nushell.sh/)
+
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 [![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)](https://docs.github.com/en/actions)
