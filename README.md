@@ -62,6 +62,8 @@
 [![TypeORM](https://img.shields.io/badge/Type%20ORM-%23343a40?style=for-the-badge&logo=typeorm&logoColor=FE0803)](https://typeorm.io/)
 [![Drizzle](https://img.shields.io/badge/Drizzle-111111?style=for-the-badge&logo=drizzle&logoColor=C5F74F)](https://orm.drizzle.team/)
 
+[![Zod](https://img.shields.io/badge/Zod-0A224E?style=for-the-badge&logo=zod&logoColor=3E67B1)](https://zod.dev/)
+
 [![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)](https://www.postgresql.org/)
 [![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)](https://redis.io/)
 
