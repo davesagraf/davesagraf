@@ -122,12 +122,16 @@
 [![GitLab CI](https://img.shields.io/badge/gitlab%20ci-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](https://about.gitlab.com/)
 
 [![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white)](https://nginx.org/en/)
+[![Caddy](https://img.shields.io/badge/caddy-%231F88C0.svg?style=for-the-badge&logo=caddy&logoColor=ffffff&logoSize=auto)](https://caddyserver.com/)
 
 [![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=Prometheus&logoColor=white)](https://prometheus.io/)
 [![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)](https://grafana.com/grafana/)
 
 [![OpenTelemetry](https://img.shields.io/badge/open%20telemetry-%23000000.svg?style=for-the-badge&logo=opentelemetry&logoColor=white)](https://opentelemetry.io/)
-[![Jaeger](https://img.shields.io/badge/jaeger-%2366CFE3.svg?style=for-the-badge&logo=jaeger&logoColor=white)](https://www.jaegertracing.io/)
+[![Jaeger](https://img.shields.io/badge/jaeger-%23ffffff.svg?style=for-the-badge&logo=jaeger&logoColor=66CFE3)](https://www.jaegertracing.io/)
+
+[![RustFS](https://img.shields.io/badge/rustfs-%23000000.svg?style=for-the-badge&logo=rustfs&logoColor=0196D0&logoSize=auto)](https://rustfs.com/)
+[![MinIO](https://img.shields.io/badge/minio-%23f6f6f6.svg?style=for-the-badge&logo=minio&logoColor=C72E49&logoSize=auto)](https://www.min.io/)
 
 [![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)](https://www.markdownguide.org/)
 [![YAML](https://img.shields.io/badge/yaml-%23CB171E.svg?style=for-the-badge&logo=yaml&logoColor=000000)](https://yaml.org/)
