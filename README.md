@@ -10,7 +10,7 @@
 </br>
 
 <h1 align="center">Hi 🤘🏼! I'm <a href="https://github.com/davesagraf">Dave</a></h1>
-<h3 align="center">A passionate full-stack developer & software architect</h3>
+<h3 align="center">A passionate full-stack engineer & software architect</h3>
 
 </br>
 
@@ -32,7 +32,6 @@
   
 👨🏻‍💻 I'm currently working at [**Start X**](https://github.com/antiphish-team)
 
-🎓 My full-stack engineer certificate from [![Codecademy](https://img.shields.io/badge/Codecademy-FFF0E5?style=for-the-badge&logo=codecademy&logoColor=1F243A)](https://www.codecademy.com/profiles/davesagraf/certificates/5f7e644d833c070013ef47c4)
   
 📫 How to reach me **mrdavidsaguev@proton.me**
   
